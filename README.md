@@ -1,6 +1,7 @@
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/ES9cAJlcxblRESzOH1" width="480" height="480" frameBorder="0" class="giphy-embed" </iframe>
+  
+  <image src="https://giphy.com/embed/ES9cAJlcxblRESzOH1" width="480" height="480" frameBorder="0" class="giphy-embed" </image>
   
   </div>
   
