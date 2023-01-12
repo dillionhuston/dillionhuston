@@ -42,11 +42,11 @@ I am a Game Developer and Ethical hacker enthusiast from Belfast.
   
   ### :hammer_and_wrench: Languages and Tools :
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine"  alt="Gatsby" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="Gatsby" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Gatsby" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="Gatsby" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Gatsby" width="40" height="40"/>&nbsp;
   
   
   
