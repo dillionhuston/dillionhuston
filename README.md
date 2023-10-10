@@ -7,7 +7,8 @@
   
 
 
-<h1> Hey there 👋 <h1>
+<h1> Dillion Huston | UE5 Game Developer <h1>
+
 
 --
  ### View_counter
@@ -21,8 +22,7 @@
 ### :📖: About Me :
   
   
-  
-I am a Game Developer and Ethical hacker enthusiast from Belfast.
+Unreal Engine Ethiusist
   
  
 
