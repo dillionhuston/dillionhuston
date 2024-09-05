@@ -7,7 +7,7 @@
   
 
 
-<h1> Dillion Huston | UE5 Game Developer <h1>
+<h1> Dillion Huston | Full stack dev <h1>
 
 
 --
@@ -17,28 +17,7 @@
 
 
 
----
 
-### :📖: About Me :
-  
-  
-Unreal Engine Ethiusist
-  
- 
-
- 
- 
- - :telescope: I'm working as a Unrel Engine Developer Creating Solutions for the community! I am also Learning C++ For Unreal Engine!
-
-- :seedling: I am currently learning C# at a beginner level.
-
-- :zap: In my free time, I often try to lean new things.
-
-- :mailbox:How to reach me: d9392828@gmail.com
-
-  
-  
-  
   
   ### :hammer_and_wrench: Languages and Tools :
   
