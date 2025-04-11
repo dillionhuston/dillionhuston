@@ -28,6 +28,7 @@ I'm a developer focused on building clean, useful, and performance-driven apps. 
 
 ---
 
+
 ### 🧰 Tools & Stack
 
 
@@ -35,4 +36,3 @@ Languages:  Python, JavaScript, Bash
 Frameworks: Flask, SQLAlchemy, Jinja2, Bootstrap
 Tools:      Git, GitHub, Postman, SQLite, VS Code
 Concepts:   Networking, Web Scraping, APIs, Socket Programming
-```text
