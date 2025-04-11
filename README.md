@@ -2,7 +2,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical)
 
-<!--
 <h1 align="center">🌙 Dillion Huston</h1>
 
 <p align="center">
@@ -31,8 +30,9 @@ I'm a developer focused on building clean, useful, and performance-driven apps. 
 
 ### 🧰 Tools & Stack
 
-```text
+
 Languages:  Python, JavaScript, Bash
 Frameworks: Flask, SQLAlchemy, Jinja2, Bootstrap
 Tools:      Git, GitHub, Postman, SQLite, VS Code
 Concepts:   Networking, Web Scraping, APIs, Socket Programming
+```text
