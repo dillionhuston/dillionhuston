@@ -3,16 +3,36 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical)
 
 <!--
-**dillionhuston/dillionhuston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌙 Dillion Huston</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🧠 Self-taught Dev &nbsp;|&nbsp; 🛠️ Full-stack Builder &nbsp;|&nbsp; 🌐 Networking Explorer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask"/>
+  <img src="https://img.shields.io/badge/-SQLAlchemy-cc0000?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a developer focused on building clean, useful, and performance-driven apps. I enjoy understanding systems at a deeper level — from writing backend logic to configuring how data flows across networks.
+
+- 🧱 Building full-stack apps with Flask & SQLAlchemy  
+- 🌐 Learning networking fundamentals & system architecture  
+- ⚙️ Automating tasks with custom tools  
+- 🔐 Interested in backend security & optimization  
+
+---
+
+### 🧰 Tools & Stack
+
+```text
+Languages:  Python, JavaScript, Bash
+Frameworks: Flask, SQLAlchemy, Jinja2, Bootstrap
+Tools:      Git, GitHub, Postman, SQLite, VS Code
+Concepts:   Networking, Web Scraping, APIs, Socket Programming
