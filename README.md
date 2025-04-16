@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical)
-![GitHub commit streak](https://img.shields.io/badge/Commit%20Streak-🔥%20March–Now-green?style=flat-square&logo=github)
+### 📈 Developer Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical&hide_rank=true&hide_title=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillionhuston&theme=radical&hide_border=true" width="400"/>
+</p>
+
 
 
 <h1 align="center">🌙 Dillion Huston</h1>
