@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical)
+![GitHub commit streak](https://img.shields.io/badge/Commit%20Streak-🔥%20March–Now-green?style=flat-square&logo=github)
+
 
 <h1 align="center">🌙 Dillion Huston</h1>
 
