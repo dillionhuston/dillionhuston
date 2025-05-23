@@ -27,10 +27,10 @@
 
 I'm a developer focused on building clean, useful, and performance-driven apps. I enjoy understanding systems at a deeper level — from writing backend logic to configuring how data flows across networks.
 
-- 🧱 Building full-stack apps with Flask & SQLAlchemy  
-- 🌐 Learning networking fundamentals & system architecture  
-- ⚙️ Automating tasks with custom tools  
-- 🔐 Interested in backend security & optimization  
+-  Building full-stack apps with Flask & SQLAlchemy  
+-  Learning networking fundamentals & system architecture  
+-  Automating tasks with custom tools  
+-  Interested in backend security & optimization  
 
 ---
 
@@ -38,7 +38,7 @@ I'm a developer focused on building clean, useful, and performance-driven apps. 
 ### 🧰 Tools & Stack
 
 
-Languages:  Python, JavaScript, Bash
-Frameworks: Flask, SQLAlchemy, Jinja2, Bootstrap
+Languages:  Python, dart, C#, Bash
+Frameworks: Flask, SQLAlchemy, Jinja2
 Tools:      Git, GitHub, Postman, SQLite, VS Code
 Concepts:   Networking, Web Scraping, APIs, Socket Programming
