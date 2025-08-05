@@ -1,101 +1,102 @@
-## Hi there 👋
-
-### 📈 Developer Activity
+# 👋 Hi, I'm Dillion Huston
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical&hide_rank=true&hide_title=true&card_width=400" style="width: 400px; height: 180px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillionhuston&theme=radical&hide_border=true" style="width: 400px; height: 180px;"/>
-</p>
-
-<h1 align="center">🌙 Dillion Huston</h1>
-
-<p align="center">
-  🧠 Self-taught Developer &nbsp;|&nbsp; 🛠️ Full-Stack Builder &nbsp;|&nbsp; 🌐 Networking Explorer
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask"/>
-  <img src="https://img.shields.io/badge/-SQLAlchemy-cc0000?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical&hide_rank=true&hide_title=true&card_width=400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillionhuston&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-###  About Me
+## 🧠 About Me
 
-I'm a self-taught developer passionate about building secure, performance-driven applications from the ground up.
+I'm a backend-focused developer building secure, fast, and testable systems using Python.  
+Currently working on backend tools, schedulers, and encrypted file systems with real deployments.
 
--  Developing full-stack web apps with Flask & SQLAlchemy  
--  Learning network engineering & low-level protocols  
--  Automating workflows and building developer tools  
--  Obsessed with backend logic, clean architecture, and simplicity  
--  Currently learning **C#** and **Dart** to expand my cross-platform and system development skills
+Learning more about networking and cybersecurity to sharpen my systems-level understanding.  
+I push updates almost daily and build everything with clean code, logs, type hints, and tests.
 
 ---
 
-### 💼 I'm Open for Work
+## 🔨 What I Work With
 
-I'm looking for a **junior backend/dev role** or **networking-related position** in the UK (remote or Belfast-based preferred).  
-If you're hiring, feel free to reach out — I'm motivated, disciplined, and improving daily.
+**Languages**  
+Python, Bash, C# (learning), Dart (learning)
 
-📫 **Email**: dillonh204@icloud.com  
-🌐 **Website/Portfolio**: _Coming Soon_
+**Frameworks & Tools**  
+FastAPI, Flask, SQLAlchemy, Celery, Docker, Redis, pytest, Git, SQLite/Postgres
 
----
-
-### 🛠 Tools & Stack
-
-**Languages**:  
-`Python`, `Dart` (learning), `C#` (learning), `Bash`
-
-**Frameworks**:  
-`Flask`, `SQLAlchemy`, `Jinja2`
-
-**Tools**:  
-`Git`, `GitHub`, `Postman`, `SQLite`, `VS Code`, `WireShaark`
-
-**Concepts**:  
-`Networking`, `Web Scraping`, `REST APIs`, `Socket Programming`, `Encryption`, `Deployment (Docker)`
+**Focus Areas**  
+- REST APIs  
+- File storage + AES encryption  
+- JWT authentication  
+- Task scheduling & background jobs  
+- Logging + exception handling  
+- Testing and deployment  
+- Networking tools, routing, scanning
 
 ---
 
-### 📦 Notable Projects
+## 🚀 Projects
 
-#### 🔐 Encrypted File Storage App
-A secure Flask-based API for encrypted file uploads with JWT auth, AES-256 encryption, and RESTful endpoints.  
-> _Tech: Flask, SQLAlchemy, JWT, AES, Docker_
+### [📅 Task Scheduler API (Main Project)](https://github.com/dillionhuston/Task-Automation-API)
 
-- [ ] AES-encrypted uploads/downloads  
-- [ ] Fully tested with `pytest`  
-- [ ] API docs via Swagger  
-- [ ] Dockerized & deployable  
-- [ ] RBAC (admin/user file access control)
+A backend-only FastAPI project that schedules tasks with full auth, logging, file validation, and background workers.  
+Made to be clean, efficient, and production-ready.
 
-[View Repo »](https://github.com/dillionhuston/Shadow)
-
----
-
-### 📚 Currently Learning
-- C# for backend and system development  
-- Dart with Flutter for cross-platform app development  
-- Kubernetes & container orchestration  
-- Advanced networking (subnetting, routing, scanning)  
-- System design principles for backend scalability  
+**Features:**
+- FastAPI + Celery + Redis integration  
+- JWT auth system (login/register)  
+- File upload with SHA-256 validation  
+- Centralized logging + custom exceptions  
+- TaskType and TaskStatus enums  
+- Full `pytest` test suite  
+- Dockerized + ready to deploy  
+- Clean routes, docstrings, type hints throughout
 
 ---
 
-### 📫 Let's Connect
+### [🔐 Encrypted File Storage – "Shadow"](https://github.com/dillionhuston/Shadow)
 
-I'm always open to collaboration, mentorship, or job opportunities.
+Flask API for AES-256 encrypted file upload/download. Built from scratch with role-based access and secure design.
 
-<a href="https://github.com/dillionhuston">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-</a>
-<a href="mailto:d9392828@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" />
-</a>
+**Highlights:**
+- AES-256 encryption  
+- JWT-based user & admin roles  
+- RESTful endpoints  
+- SHA-256 file validation  
+- Deployment-ready with Docker  
+- Unit tested with `pytest`
 
 ---
 
-_Thanks for checking out my profile!_
+### 🧪 Tools, Prototypes, and Scripts
+
+- Port scanner and IP tools using Python sockets  
+- Terminal-based file viewer for trust fund data  
+- Image-to-text converter using Tesseract  
+- Custom file hashing tool (SHA256)  
+- Bash + Python hybrid scripts for automation
+
+---
+
+## 📚 Learning Now
+
+- Kubernetes and container orchestration  
+- C# for system/backend work  
+- Dart & Flutter for cross-platform utilities  
+- Advanced networking: subnetting, TCP/IP, scanning  
+- Backend scaling patterns & job queues
+
+---
+
+## 💼 Available for Work
+
+Looking for junior backend roles or networking-related positions.  
+Open to UK-based or remote work (Belfast preferred).
+
+📫 Email: **dillonh204@icloud.com**  
+🌐 Portfolio: _Coming soon_
+
+---
+
+Thanks for checking out my profile.
