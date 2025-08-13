@@ -9,94 +9,36 @@
 
 ## 🧠 About Me
 
-I'm a backend-focused developer building secure, fast, and testable systems using Python.  
-Currently working on backend tools, schedulers, and encrypted file systems with real deployments.
-
-Learning more about networking and cybersecurity to sharpen my systems-level understanding.  
-I push updates almost daily and build everything with clean code, logs, type hints, and tests.
+Backend-focused developer building fast, secure, and testable systems with Python.  
+I work on schedulers, encrypted file storage, and real-world deployments.  
+Daily commits. Logs, tests, type hints. Always clean code.
 
 ---
 
-## 🔨 What I Work With
+## 🛠️ Tech & Tools
 
-**Languages**  
-Python, Bash, C# (learning), Dart (learning)
-
-**Frameworks & Tools**  
-FastAPI, Flask, SQLAlchemy, Celery, Docker, Redis, pytest, Git, SQLite/Postgres
-
-**Focus Areas**  
-- REST APIs  
-- File storage + AES encryption  
-- JWT authentication  
-- Task scheduling & background jobs  
-- Logging + exception handling  
-- Testing and deployment  
-- Networking tools, routing, scanning
+Python, Bash, FastAPI, Flask, SQLAlchemy, Celery, Docker, Redis, pytest  
+Focus: REST APIs · JWT Auth · File Encryption · Background Jobs · Networking Tools
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### [📅 Task Scheduler API (Main Project)](https://github.com/dillionhuston/Task-Automation-API)
+### [📅 Task Scheduler API](https://github.com/dillionhuston/Task-Automation-API)  
+FastAPI + Celery backend with full auth, logging, and Docker deployment.
 
-A backend-only FastAPI project that schedules tasks with full auth, logging, file validation, and background workers.  
-Made to be clean, efficient, and production-ready.
-
-**Features:**
-- FastAPI + Celery + Redis integration  
-- JWT auth system (login/register)  
-- File upload with SHA-256 validation  
-- Centralized logging + custom exceptions  
-- TaskType and TaskStatus enums  
-- Full `pytest` test suite  
-- Dockerized + ready to deploy  
-- Clean routes, docstrings, type hints throughout
+### [🔐 Shadow – Encrypted File Storage](https://github.com/dillionhuston/Shadow)  
+Flask API with AES-256 file encryption and role-based access.
 
 ---
 
-### [🔐 Encrypted File Storage – "Shadow"](https://github.com/dillionhuston/Shadow)
+## 📚 Learning
 
-Flask API for AES-256 encrypted file upload/download. Built from scratch with role-based access and secure design.
-
-**Highlights:**
-- AES-256 encryption  
-- JWT-based user & admin roles  
-- RESTful endpoints  
-- SHA-256 file validation  
-- Deployment-ready with Docker  
-- Unit tested with `pytest`
+Kubernetes · C# · Flutter · Advanced Networking · Backend Scaling
 
 ---
 
-### 🧪 Tools, Prototypes, and Scripts
+## 💼 Open to Work
 
-- Port scanner and IP tools using Python sockets  
-- Terminal-based file viewer for trust fund data  
-- Image-to-text converter using Tesseract  
-- Custom file hashing tool (SHA256)  
-- Bash + Python hybrid scripts for automation
-
----
-
-## 📚 Learning Now
-
-- Kubernetes and container orchestration  
-- C# for system/backend work  
-- Dart & Flutter for cross-platform utilities  
-- Advanced networking: subnetting, TCP/IP, scanning  
-- Backend scaling patterns & job queues
-
----
-
-## 💼 Available for Work
-
-Looking for junior backend roles or networking-related positions.  
-Open to UK-based or remote work (Belfast preferred).
-
-📫 Email: **dillonh204@icloud.com**  
-🌐 Portfolio: _Coming soon_
-
----
-
-Thanks for checking out my profile.
+Junior backend roles · Networking/Security · Remote or UK-based (Belfast preferred)  
+📫 dillonh204@icloud.com
