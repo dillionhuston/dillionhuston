@@ -1,6 +1,6 @@
 # Dillon Huston 👨‍💻
 
-**Backend Developer | Belfast, UK | Escaping Retail for Tech**
+**Backend Developer | Belfast, UK**
 
 [<image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black" ></image-card>](https://github.com/dillionhuston)
 [<image-card alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue" ></image-card>](https://linkedin.com/in/dillionhuston)
