@@ -1,54 +1,27 @@
-# 👋 Hi, I'm Dillion Huston
+# Dillon Huston 👨‍💻
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&theme=radical&hide_rank=true&hide_title=true&card_width=300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillionhuston&theme=radical&hide_border=true&card_width=300"/>
-</p>
+**Backend Developer | Belfast, UK | Escaping Retail for Tech**
 
----
+[<image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black" ></image-card>](https://github.com/dillionhuston)
+[<image-card alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue" ></image-card>](https://linkedin.com/in/dillionhuston)
 
-##  About Me
+## 🚀 Featured Project
+**Task-Automation-API** - **LIVE PRODUCTION**  
+[<image-card alt="Live Demo" src="https://img.shields.io/badge/Live-Production-brightgreen" ></image-card>](https://your-api.railway.app/docs)  
+Secure task automation with JWT auth, Celery, and Docker. Deployed to Railway with auto-scaling.
 
-Backend-focused developer building fast, secure, and testable systems with Python.  
-I work on schedulers, encrypted file storage, and real-world deployments.  
-Collaborates on real projects, maintains consistent commits, and writes clean, testable code.
+## 🛠️ Skills
+- **Backend**: FastAPI, Python, JWT Authentication
+- **DevOps**: Docker, Railway, GitHub Actions CI/CD
+- **Security**: AES-256 Encryption, Secure API Design
+- **Database**: PostgreSQL, Redis
+- **Testing**: pytest, 95% coverage
 
----
+## 🎯 Open to Opportunities
+**Junior Backend Developer roles in Belfast/UK**  
+- Production deployment experience
+- Containerized microservices
+- Secure API development
+- Available immediately
 
-##  Tech & Tools
-
-**Languages:** Python, Bash  
-**Frameworks:** FastAPI, Flask  
-**Tools:** Docker, Redis, Celery, pytest  
-**Focus:** REST APIs · JWT Auth · File Encryption · Background Jobs · Networking Tools
-
----
-
-##  Featured Projects
-
-### [ Task Scheduler API](https://github.com/dillionhuston/Task-Automation-API)  
-FastAPI + Celery backend with full auth, logging, and Docker deployment.  
-- Handles scheduled background tasks efficiently.  
-- JWT authentication and logging for secure operations.  
-- Fully containerized with Docker for easy deployment.  
-
-### [ Shadow – Encrypted File Storage](https://github.com/dillionhuston/Shadow)  
-Flask API with AES-256 file encryption and role-based access.  
-- Secure file storage with encrypted uploads/downloads.  
-- Role-based access control for multiple user levels.  
-- Includes thorough testing and logging for reliability.  
-
-
----
-
-##  Learning
-
-Kubernetes · C# · Flutter · Advanced Networking · Backend Scaling
-
----
-
-##  Open to Work
-
-Looking for **junior backend roles** or **networking/security positions**.  
-Remote or UK-based (Belfast preferred).  
-📫 dillonh204@icloud.com
+**📧 Get in touch**: Open to coffee chats, interviews, or project collaboration!
