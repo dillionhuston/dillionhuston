@@ -1,15 +1,15 @@
-# 👨‍💻 Dillon Huston | Backend Developer
+# Dillon Huston | Backend Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dillionhuston&label=Profile%20views&color=0e75b6&style=flat-square)
 
-🔧 **Backend Developer** based in Belfast, UK  
-🌐 Building secure APIs, networking tools, and scalable backend systems  
+**Backend Developer** based in Belfast, UK  
+Building secure APIs, networking tools, and scalable backend systems  
 
-📍 [Portfolio](https://dillionhuston.github.io/) | [LinkedIn](https://www.linkedin.com/in/dillon-huston-412848288/) | [GitHub](https://github.com/dillionhuston)
+ [Portfolio](https://dillionhuston.github.io/) | [LinkedIn](https://www.linkedin.com/in/dillon-huston-412848288/) | [GitHub](https://github.com/dillionhuston)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Task Automation API](https://github.com/dillionhuston/Task-Automation-API)
 Secure backend platform for task automation:  
@@ -36,7 +36,7 @@ Monitor and manage your home network with real-time insights:
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
@@ -49,7 +49,7 @@ Monitor and manage your home network with real-time insights:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Dillon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
 
@@ -57,7 +57,7 @@ Monitor and manage your home network with real-time insights:
 
 ---
 
-## 🎯 Open to Opportunities
+## Open to Opportunities
 
 Seeking **Junior Backend Developer roles** in Belfast, UK:  
 - Production deployment experience  
@@ -67,7 +67,7 @@ Seeking **Junior Backend Developer roles** in Belfast, UK:
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-2x-yellow?style=flat-square)  
 ![YOLO](https://img.shields.io/badge/YOLO-2x-yellowgreen?style=flat-square)  
@@ -75,7 +75,7 @@ Seeking **Junior Backend Developer roles** in Belfast, UK:
 
 ---
 
-## 🌐 More About Me
+## More About Me
 
 Passionate about backend development, security, and scalable systems. Exploring advanced topics in microservices architecture and cloud-native technologies.  
 
