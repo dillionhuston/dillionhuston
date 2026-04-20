@@ -22,7 +22,7 @@ Combines static timetable data, live user-reported events, and historical data u
 - Live demo & more details: [routereality.co.uk](https://routereality.co.uk) 
 
 ### Task Automation API
-[→ GitHub Repo](https://github.com/dillionhuston/Task-Automation-API)
+[GitHub Repo](https://github.com/dillionhuston/Task-Automation-API)
 
 Ready to run backend for scheduling and automating tasks (file handling, email reminders, background processing).
 
@@ -37,7 +37,7 @@ Ready to run backend for scheduling and automating tasks (file handling, email r
 Live Demo: [https://dillonhtask.netlify.app/](https://dillonhtask.netlify.app/)
 
 ### Shadow (Encrypted File Storage)
-[→ GitHub Repo](https://github.com/dillionhuston/Shadow)
+[GitHub Repo](https://github.com/dillionhuston/Shadow)
 
 Self-hosted, client-side AES-256 encrypted file storage service. Files are encrypted before upload and only decrypted on download — server never sees plaintext.
 
@@ -47,7 +47,7 @@ Self-hosted, client-side AES-256 encrypted file storage service. Files are encry
 - Docker support
 
 ### IPTV Scanner
-[→ GitHub Repo](https://github.com/dillionhuston/IPTV-Scanner-Beta)
+[GitHub Repo](https://github.com/dillionhuston/IPTV-Scanner-Beta)
 
 Fast Python tool that scans IPTV playlists, verifies live streams, and separates active vs. dead channels. Includes a lightweight web GUI.
 
@@ -55,7 +55,7 @@ Fast Python tool that scans IPTV playlists, verifies live streams, and separates
 - Web interface for easy channel access
 
 ### Home Network Monitor
-[→ GitHub Repo](https://github.com/dillionhuston/Home-Network-Monitor)
+[GitHub Repo](https://github.com/dillionhuston/Home-Network-Monitor)
 
 Tool for monitoring home networks — device discovery, bandwidth tracking, and activity insights.
 
