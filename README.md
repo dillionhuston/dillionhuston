@@ -1,83 +1,108 @@
 # Dillon Huston | Backend Developer & IT Support Enthusiast
+
 ![Profile Views](https://komarev.com/ghpvc/?username=dillionhuston&label=Profile%20views&color=0e75b6&style=flat-square)
 
-Backend Developer based in Belfast, UK  
-Building secure APIs, automation tools, and practical systems for real-world use.
+**Backend Developer** based in **Belfast, UK**  
 
-[Portfolio](https://dillionhuston.github.io/) • [LinkedIn](https://www.linkedin.com/in/dillon-huston-412848288/) • [GitHub](https://github.com/dillionhuston)
+Hi I'm Dillon, I build APIs, automation tools, and useful systems that solve real problems. I'm also really into networking, system monitoring, and infrastructure.
+
+[LinkedIn](https://www.linkedin.com/in/dillon-huston-412848288/)
+[dev.to](https://dev.to/dillionhuston)
 
 ---
-
 ## Featured Projects
 
-### Task Automation API
-[https://github.com/dillionhuston/Task-Automation-API](https://github.com/dillionhuston/Task-Automation-API)  
-Secure backend platform with:
-- JWT authentication & role-based access
-- Celery-powered scheduled tasks
-- Docker containerization
-- Production deployment on Railway
+### RouteReality
+**Real-time transport prediction & event tracking system** (focused on Belfast buses, expandable to trains/taxis etc.)
 
-### Secure File Storage (AES Encryption)
-[https://github.com/dillionhuston/Shadow](https://github.com/dillionhuston/Shadow)  
-Encrypted file storage service:
-- Client-side AES-256 encryption
-- JWT authentication
-- Safe upload/download handling
+Combines static timetable data, live user-reported events, and historical data using weighted averages for accurate arrival predictions. Includes a points-based leaderboard to encourage community reporting.
+
+- JWT authentication with user accounts
+- Pydantic for data validation
+- Live demo & more details: [routereality.co.uk](https://routereality.co.uk) 
+
+### Task Automation API
+[→ GitHub Repo](https://github.com/dillionhuston/Task-Automation-API)
+
+Ready to run backend for scheduling and automating tasks (file handling, email reminders, background processing).
+
+**Key Features:**
+- FastAPI + JWT authentication & role-based access
+- Celery + Redis for scheduled/background tasks
+- Secure file upload/storage with custom hashing & encryption
+- Docker Compose deployment (production-ready on Railway)
+- Email notifications with attachments
+- Full task history & webhook support
+
+Live Demo: [https://dillonhtask.netlify.app/](https://dillonhtask.netlify.app/)
+
+### Shadow (Encrypted File Storage)
+[→ GitHub Repo](https://github.com/dillionhuston/Shadow)
+
+Self-hosted, client-side AES-256 encrypted file storage service. Files are encrypted before upload and only decrypted on download — server never sees plaintext.
+
+- Flask backend + SQLAlchemy
+- Simple web interface (Dart/Flutter-based frontend)
+- Secure sync across devices
+- Docker support
 
 ### IPTV Scanner
-[https://github.com/dillionhuston/IPTV-Scanner-Beta](https://github.com/dillionhuston/IPTV-Scanner-Beta)  
-Python-based IPTV scanning tool:
-- Fast scanning of IPTV streams
-- Lightweight and user-friendly
+[→ GitHub Repo](https://github.com/dillionhuston/IPTV-Scanner-Beta)
+
+Fast Python tool that scans IPTV playlists, verifies live streams, and separates active vs. dead channels. Includes a lightweight web GUI.
+
+- Outputs clean JSON (live + inactive streams)
+- Web interface for easy channel access
 
 ### Home Network Monitor
-[https://github.com/dillionhuston/Home-Network-Monitor](https://github.com/dillionhuston/Home-Network-Monitor)  
-Home network analysis tool:
-- Device detection
-- Bandwidth/activity tracking
+[→ GitHub Repo](https://github.com/dillionhuston/Home-Network-Monitor)
+
+Tool for monitoring home networks — device discovery, bandwidth tracking, and activity insights.
 
 ---
 
 ## Skills & Technologies
 
-**Languages:** Python  
+**Languages:** Python (primary), basic Dart/Flutter  
 **Frameworks:** FastAPI, Flask  
-**Databases:** PostgreSQL, Redis  
-**Tools:** Docker, GitHub Actions, JWT, Linux  
-**Interests:** Backend engineering, networking, system monitoring, automation
+**Databases & Tools:** PostgreSQL, Redis, SQLAlchemy, Pydantic, Celery  
+**DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
+**Security:** JWT, AES-256 encryption, secure file handling  
+**Other:** Networking, system monitoring, automation, troubleshooting
 
 ---
 
 ## GitHub Stats
-![Dillon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
+
+![Dillon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillionhuston&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dillionhuston&layout=compact&theme=radical)
 
 ---
 
 ## Currently Working Toward
-- Breaking into the tech industry
-- Improving backend skills through real projects
-- Building tools for networking, automation, and system security
-- Learning the fundamentals of IT support and infrastructure
+- Breaking into the tech industry as a Junior Backend Developer or IT Support professional
+- Deepening knowledge in backend architecture, DevOps, and system security
+- Building more real world tools for networking, automation, and community use
+- Strengthening IT support & infrastructure fundamentals
 
 ---
 
-## Open to Roles
-Looking for opportunities in:  
-- IT Support / Helpdesk  
-- Technical Support  
-- Junior Backend Development  
-- Technical Operations / Systems Assistant  
+## Open to Opportunities
 
-I bring:  
-- Strong Python + backend knowledge  
-- Experience deploying real projects  
-- Networking & system troubleshooting interest  
-- A driven mindset and willingness to learn
+Looking for entry level roles in:
+
+- **Junior Backend Developer** (Python/FastAPI)
+- **IT Support / Helpdesk / Technical Support**
+- **Technical Operations / Systems Assistant**
+
+**What I bring:**
+- Hands on experience deploying production-ready projects (Docker, Celery, PostgreSQL)
+- Strong problem solving mindset and a passion for automation & networking
+- Quick learner
+
+Feel free to reach out via LinkedIn or email!
 
 ---
 
-## About Me
-I enjoy building practical tools — APIs, scanners, system monitors, automation bots — anything that improves workflow or adds reliability.  
-Outside coding, I explore networking and security, experiment with home labs, and work on becoming better every day.
+Made with ❤️ 
