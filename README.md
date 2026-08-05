@@ -1,6 +1,6 @@
 # Dillon Huston | Backend Developer & IT Support Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=dillionhuston&label=Profile%20views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dillonhuston&label=Profile%20views&color=0e75b6&style=flat-square)
 
 **Backend Developer** based in **Belfast, UK**.  
 
