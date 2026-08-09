@@ -21,7 +21,7 @@ Real-time transport prediction & event tracking system (currently focused on Bel
 - **Live Demo:** [routereality.co.uk](https://routereality.co.uk)
 
 ### Task Automation API
-**Status:** In Progress (Needs Polishing)
+**Status:** Completed & Polished
 
 Ready-to-run backend for scheduling and automating tasks (file handling, email reminders, background jobs, etc.).
 
